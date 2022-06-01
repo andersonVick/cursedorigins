@@ -1,0 +1,11 @@
+{
+  "powers": [
+	"origins:translucent",
+	"cursedorigins:glass_cannon",
+	"cursedorigins:inorganic"
+  ],
+  "icon": "minecraft:glass",
+  "impact": 3,
+  "name": "Glass Golem",
+  "description": "Creatures made of pure glass, these golems are heavy hitters but can't sustain a lot of damage."
+}
