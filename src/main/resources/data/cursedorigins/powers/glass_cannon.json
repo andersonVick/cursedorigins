@@ -1,0 +1,21 @@
+{
+  "type": "origins:multiple",
+  "modify_damage_dealt": {
+	"type": "origins:modify_damage_dealt",
+	"modifier": {
+	  "name": "Power modifier",
+	  "value": 1,
+	  "operation": "multiply_total"
+	}
+  },
+  "modify_damage_taken": {
+	"type": "origins:modify_damage_taken",
+	"modifier": {
+	  "name": "Power modifier",
+	  "value": 1,
+	  "operation": "multiply_total"
+	}
+  },
+  "name": "Glass Cannon",
+  "description": "You deal and take twice as much damage."
+}
